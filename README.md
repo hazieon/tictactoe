@@ -1,11 +1,20 @@
-# React Hackathon
+# React + OOP - tictactoe game
 
-For todays hackathon we are going to practice extracting relevant information from resources that are solving the same problem but in a different way.
+Noughts & Crosses! 
+A halloween-themed version of the classic tic tac toe grid game. 
+A pair programming app built in React with OOP classes.
 
-We will be making noughts and crosses - react style!
+# view the deployed application
+h4ll0w33n.netlify.app/ 
 
-To have stateful components in react before hooks were invented you had to write a class component.
+# Run the application locally
+1. clone the repo.
+2. 'npm i' inside the project folder.
+3. 'npm run start' to run the application via a browser on Localhost. 
+4. Enjoy!
 
-Your task today is to apply what you've learnt about react whilst following [this tutorial](https://reactjs.org/tutorial/tutorial.html). Extract what you need and use your knowledge of modern react to inform how you write your components.
 
-Happy hacking!
+# Original tutorial:
+The task was to follow the structure of this tutorial. 
+However this code is written in an older version of React, so we modified it completely.
+ [this tutorial](https://reactjs.org/tutorial/tutorial.html)
